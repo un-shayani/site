@@ -213,7 +213,7 @@ progressive_web_app:
 proxy_indicators:
   label: ''
   description: ''
-remote_data_prefix: 'https://jxaaa.github.io/data/'
+remote_data_prefix: 'https://un-shayani.github.io/data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -229,8 +229,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/jxaaa/data'
-repository_url_site: 'https://github.com/jxaaa/site'
+repository_url_data: 'https://github.com/un-shayani/data'
+repository_url_site: 'https://github.com/un-shayani/site'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
